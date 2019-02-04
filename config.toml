@@ -29,10 +29,10 @@ blogdir = "blog"
     name = "Blog"
     url = "/blog/"
     weight = 4
-[[menu.main]]
-    name = "CV"
-    url = " "   # should put my cv in the content directory and change the name here "/cv.pdf"
-    weight = 5
+#[[menu.main]]
+#    name = "CV"
+#   url = " "   # should put my cv in the content directory and change the name here "/cv.pdf"
+#    weight = 5
 
 [params]
     description = "Yuehong Tai, Internet Politics, social media and political behavior, dynamic public opinion " 
