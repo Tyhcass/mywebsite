@@ -1,7 +1,7 @@
 baseurl = "http://example.netlify.io/"
 relativeurls = false
 languageCode = "en-us"
-title = "Your Name"
+title = "Yuehong Tai"
 theme = "hugo-prof"
 googleAnalytics = ""
 disqusShortname = ""
@@ -35,16 +35,16 @@ blogdir = "blog"
     weight = 5
 
 [params]
-    description = "Your name and a few keywords on your academic interests" 
-    subtitle = "A few keywords on your academic interests"
-    home_text = "A paragraph or so of professional bio.  Write it in the config.toml file---it's called home_text---as one long string."
+    description = "Yuehong Tai, Internet Politics, social media and political behavior, dynamic public opinion " 
+    subtitle = "Internet Politics, Social Media, and dynamic Public Opinion"
+    home_text = "I am a PhD student in the Department of Political Science at the University of Iowa. My interests include Internet politics in China, social media and political behavior. I am also interested in comparative public opinion and dynamic political attitude."
 
-    author = "Your Name"
+    author = "Yuehong Tai"
     dateFormat = "2006/01/02"
-    email = "your_email@uppermidwest.edu"
-    github_username = "your_github_username"
-    twitter_username = "your_twitter_username"  # leave empty quotes to omit
-    gscholar_code = "your_gscholar_code"        # leave empty quotes to omit    
+    email = "yuehong-tai@uiowa.edu"
+    github_username = "Tyhcass"
+    twitter_username = " "  # leave empty quotes to omit
+    gscholar_code = " "        # leave empty quotes to omit    
 
     page_color = "white"
     text_color = "black"
