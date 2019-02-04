@@ -31,7 +31,7 @@ blogdir = "blog"
     weight = 4
 [[menu.main]]
     name = "CV"
-    url = "/cv.pdf"
+    url = " "   # should put my cv in the content directory and change the name here "/cv.pdf"
     weight = 5
 
 [params]
